@@ -40,5 +40,3 @@ Trial runs could attempt to prioritize the daily lead pickings by SSNH score des
 
 Estimating that every sold lead generates roughly $2,000 for the company, the value of the SSNH would be shown clearly in dollars by taking the hopefully higher closing rate on days during which the SSNH score is considered and determing the average amount of additional sales the company closes by prioritizing the leads with a higher likelihood of selling. 
 
-<!-- Reminder to add a data dictionary file -->
-
