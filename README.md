@@ -1,6 +1,3 @@
-# 50-steuber-local-mlproj-salability
-50-steuber-local-mlproj-salability
-
 # Security Salability of New Homeowner (SSNH) with Machine Learning
 
 ## Project Description
